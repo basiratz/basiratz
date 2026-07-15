@@ -4,7 +4,7 @@ I'm a Software QA Engineer focused on building reliable software through manual 
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, TypeScript, C++
+- **Languages:** TypeScript, C++
 - **Test Automation:** Playwright
 - **API Testing:** Postman
 - **Testing:** Manual Testing, Functional Testing, Regression Testing, Performance Testing
@@ -15,31 +15,14 @@ I'm a Software QA Engineer focused on building reliable software through manual 
 ## 🚀 Currently Working On
 
 - 🎭 Building an end-to-end Playwright automation framework using TypeScript
-- 💼 Developing an Employee Management System (EMS) in Java
+- 💼 Developing an Employee Management System (EMS) in C++
 - 💻 Building a C++ console application to strengthen core programming concepts
 - 🧩 Applying Page Object Model (POM) and automation best practices
 - 🔄 Expanding my knowledge of API testing and CI/CD
 
-## 📂 Featured Projects
-
-- 🎭 Playwright Test Automation Framework
-- 💼 Employee Management System (Java)
-- 💻 C++ Console Application
-- 📮 API Testing Collections
-- 🧪 Manual Testing Documentation
-
-## 🌱 Currently Learning
-
-- CI/CD pipelines
-- Test architecture and design patterns
-- Performance and API automation
-
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: www.linkedin.com/in/basirat-z-226a11239
-
 - 🌐 GitHub: https://github.com/basiratz
-
 ---
-
 > *"Quality is never an accident; it is always the result of intelligent effort."*
