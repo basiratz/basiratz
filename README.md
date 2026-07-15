@@ -1,16 +1,45 @@
-## Hi there 👋
+## Hi there, I'm Basirat 👋
 
-<!--
-**basiratz/basiratz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software QA Engineer focused on building reliable software through manual and automated testing.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, TypeScript, C++
+- **Test Automation:** Playwright
+- **API Testing:** Postman
+- **Testing:** Manual Testing, Functional Testing, Regression Testing, Performance Testing
+- **Version Control:** Git, GitHub
+- **CI/CD:** GitHub Actions *(Learning)*
+- **Tools:** VS Code, Jira, ClickUp
+
+## 🚀 Currently Working On
+
+- 🎭 Building an end-to-end Playwright automation framework using TypeScript
+- 💼 Developing an Employee Management System (EMS) in Java
+- 💻 Building a C++ console application to strengthen core programming concepts
+- 🧩 Applying Page Object Model (POM) and automation best practices
+- 🔄 Expanding my knowledge of API testing and CI/CD
+
+## 📂 Featured Projects
+
+- 🎭 Playwright Test Automation Framework
+- 💼 Employee Management System (Java)
+- 💻 C++ Console Application
+- 📮 API Testing Collections
+- 🧪 Manual Testing Documentation
+
+## 🌱 Currently Learning
+
+- CI/CD pipelines
+- Test architecture and design patterns
+- Performance and API automation
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: www.linkedin.com/in/basirat-z-226a11239
+
+- 🌐 GitHub: https://github.com/basiratz
+
+---
+
+> *"Quality is never an accident; it is always the result of intelligent effort."*
